@@ -13,7 +13,7 @@
 
 It is console chat with encrypting your messages
 
-# How it works?
+# How it works ?
 
 All you need it's to run web-server and connect to them via client
 
